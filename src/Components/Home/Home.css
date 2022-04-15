@@ -1,0 +1,8 @@
+.hero-area {
+    display: grid;
+    place-items: center;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
