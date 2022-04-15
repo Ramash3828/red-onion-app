@@ -1,0 +1,8 @@
+.myNav a {
+    color: #000 !important;
+}
+
+.myNav a:hover,
+.myNav a.active {
+    border-bottom: 2px solid goldenrod;
+}
